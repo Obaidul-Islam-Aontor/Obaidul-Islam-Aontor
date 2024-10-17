@@ -5,7 +5,7 @@ I’m an Electronic and Telecommunication Engineering student at Rajshahi Univer
 - **Focus Areas:** Machine Learning, AI, Electronics and Communication.
 - **Current Goals:** Building skills and contributing to open-source projects.
 
-- 🌱 **Programming Languages:** Python, Electronics.
+- 🌱 **Programming Languages:** C, C++, Python.
 
   Feel free to connect or check out my repositories!
 
