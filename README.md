@@ -6,7 +6,7 @@ I’m an Electronic and Telecommunication Engineering student at Rajshahi Univer
 - **Current Goals:** Building skills and contributing to open-source projects.
 
 - **Programming Languages:** C, C++, Python.
-- **Interested** MATLAB Projects.
+- **Interested in** MATLAB Projects.
 
   Feel free to connect or check out my repositories!
 
