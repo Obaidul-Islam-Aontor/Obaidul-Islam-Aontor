@@ -2,10 +2,11 @@
 
 I’m an Electronic and Telecommunication Engineering student at Rajshahi University of Engineering and Technology (RUET). 
 
-- **Focus Areas:** Machine Learning, AI, Electronics and Communication.
+- **Focus Areas:** Electronics and Communication.
 - **Current Goals:** Building skills and contributing to open-source projects.
 
-- 🌱 **Programming Languages:** C, C++, Python.
+- **Programming Languages:** C, C++, Python.
+- **Interested** MATLAB Projects.
 
   Feel free to connect or check out my repositories!
 
