@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m an Electronic and Telecommunication Engineering student at Rajshahi University of Engineering and Technology (RUET). 
+I’m an Electronics and Telecommunication Engineering student at Rajshahi University of Engineering and Technology (RUET), Bangladesh. 
 
 - **Focus Areas:** Electronics and Communication System.
 - **Current Goals:** Building skills and contributing to open-source projects.
