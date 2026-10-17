@@ -1,70 +1,63 @@
-# Hi, I'm Obaidul Islam Aontor 👋
+<h1 align="center">Hi, I'm Obaidul Islam Aontor 👋</h1>
 
-### Electronics and Telecommunication Engineering Student
+<p align="center"><strong>Electronics & Telecommunication Engineering Student at RUET, Bangladesh</strong></p>
 
-I am an undergraduate student at **Rajshahi University of Engineering and Technology (RUET), Bangladesh**, interested in electronics, communication systems, programming, and practical engineering projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=700&lines=Building+practical+engineering+and+software+projects;Focused+on+electronics%2C+communication%2C+and+programming;Learning+by+building+real-world+projects" alt="Animated introduction describing Obaidul Islam Aontor's interests" />
+</p>
 
-I enjoy building projects, exploring new technologies, and continuously improving my technical skills.
+<p align="center">
+  I'm an undergraduate student at <strong>Rajshahi University of Engineering and Technology (RUET)</strong>,
+  passionate about electronics, communication systems, programming, and hands-on project development.
+</p>
 
----
+## 🤝 Connect
 
-## 🔧 Areas of Interest
+<p>
+  <a href="https://github.com/Obaidul-Islam-Aontor">
+    <img src="https://img.shields.io/badge/GitHub-Obaidul--Islam--Aontor-181717?style=for-the-badge&logo=github" alt="GitHub profile of Obaidul Islam Aontor" />
+  </a>
+  <a href="https://www.linkedin.com/in/obaidul-islam-836358285">
+    <img src="https://img.shields.io/badge/LinkedIn-Obaidul%20Islam%20Aontor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Obaidul Islam Aontor" />
+  </a>
+</p>
 
-- Electronics and communication systems
-- Python programming
-- C and C++ programming
-- MATLAB projects and simulations
-- Web development and portfolio design
-- Problem solving and engineering projects
+## 🧰 Skills & Toolkit
 
----
+- **Programming:** C, C++, Python, MATLAB
+- **Web:** HTML, portfolio-style web development
+- **Engineering Domains:** Electronics, Communication Systems
+- **Workflow:** Project-based learning and practical implementation
 
-## 🛠️ Technical Skills
+## 📊 GitHub Overview
 
-### Programming Languages
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obaidul-Islam-Aontor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics for Obaidul Islam Aontor" />
+</p>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Obaidul-Islam-Aontor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Obaidul Islam Aontor" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaidul-Islam-Aontor&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages used by Obaidul Islam Aontor" />
+</p>
 
-### Web Technologies
+## 🚀 Selected Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- [MATLAB-Projects](https://github.com/Obaidul-Islam-Aontor/MATLAB-Projects) — MATLAB engineering projects and simulations
+- [Electronics-Project](https://github.com/Obaidul-Islam-Aontor/Electronics-Project) — Electronics-focused academic work
+- [Python-Projects](https://github.com/Obaidul-Islam-Aontor/Python-Projects) — Python practice and mini projects
+- [personalportfolio](https://github.com/Obaidul-Islam-Aontor/personalportfolio) — Personal portfolio website
+- [2204017-portfolio](https://github.com/Obaidul-Islam-Aontor/2204017-portfolio) — Portfolio project for coursework and presentation
 
----
+## 🎯 Current Focus
 
-## 📌 Featured Projects
+- Strengthening problem-solving and programming fundamentals
+- Building practical electronics and communication system projects
+- Improving full-project delivery skills across engineering and web development
 
-| Project | Description |
-|---|---|
-| [Portfolio Project](https://github.com/Obaidul-Islam-Aontor/2204017-portfolio) | A web-based portfolio project |
-| [Python Projects](https://github.com/Obaidul-Islam-Aontor/Python-Projects) | Programming projects and practice using Python |
-| [MATLAB Projects](https://github.com/Obaidul-Islam-Aontor/MATLAB-Projects) | MATLAB-based engineering projects and simulations |
-| [Electronics Project](https://github.com/Obaidul-Islam-Aontor/Electronics-Project) | Electronics-focused academic project |
+<details>
+  <summary><strong>More about me</strong></summary>
 
----
+- I enjoy learning by building real projects.
+- I aim to grow as an engineer who can bridge hardware and software effectively.
 
-## 🎯 Current Goals
-
-- Strengthen my programming and problem-solving skills
-- Develop practical electronics and communication projects
-- Learn more about software and web development
-- Contribute to open-source projects
-- Build a strong engineering portfolio
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obaidul-Islam-Aontor&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obaidul-Islam-Aontor&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: [@Obaidul-Islam-Aontor](https://github.com/Obaidul-Islam-Aontor)
-
-Thanks for visiting my profile! ⭐
+</details>
