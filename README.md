@@ -3,7 +3,7 @@
 <p align="center"><strong>Electronics & Telecommunication Engineering Student at RUET, Bangladesh</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=700&lines=Building+practical+engineering+and+software+projects;Focused+on+Electronics%2C+Communication+Systems%2C+and+Code" alt="Animated typing introduction showing professional focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=700&lines=Building+practical+engineering+and+software+projects;Focused+on+electronics%2C+communication%2C+and+programming;Learning+by+building+real-world+projects" alt="Animated introduction describing Obaidul Islam Aontor's interests" />
 </p>
 
 <p align="center">
@@ -15,9 +15,11 @@
 
 <p>
   <a href="https://github.com/Obaidul-Islam-Aontor">
-    <img src="https://img.shields.io/badge/GitHub-Obaidul--Islam--Aontor-181717?style=for-the-badge&logo=github" alt="GitHub profile badge" />
+    <img src="https://img.shields.io/badge/GitHub-Obaidul--Islam--Aontor-181717?style=for-the-badge&logo=github" alt="GitHub profile of Obaidul Islam Aontor" />
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20your%20URL%20here-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn placeholder badge" />
+  <a href="https://www.linkedin.com/in/obaidul-islam-836358285">
+    <img src="https://img.shields.io/badge/LinkedIn-Obaidul%20Islam%20Aontor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Obaidul Islam Aontor" />
+  </a>
 </p>
 
 ## 🧰 Skills & Toolkit
@@ -34,8 +36,8 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Obaidul-Islam-Aontor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats card for Obaidul Islam Aontor" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaidul-Islam-Aontor&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by Obaidul Islam Aontor" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Obaidul-Islam-Aontor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Obaidul Islam Aontor" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaidul-Islam-Aontor&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages used by Obaidul Islam Aontor" />
 </p>
 
 ## 🚀 Selected Projects
@@ -44,7 +46,7 @@
 - [Electronics-Project](https://github.com/Obaidul-Islam-Aontor/Electronics-Project) — Electronics-focused academic work
 - [Python-Projects](https://github.com/Obaidul-Islam-Aontor/Python-Projects) — Python practice and mini projects
 - [personalportfolio](https://github.com/Obaidul-Islam-Aontor/personalportfolio) — Personal portfolio website
-- [2204017-portfolio](https://github.com/Obaidul-Islam-Aontor/2204017-portfolio) — Portfolio project for coursework/presentation
+- [2204017-portfolio](https://github.com/Obaidul-Islam-Aontor/2204017-portfolio) — Portfolio project for coursework and presentation
 
 ## 🎯 Current Focus
 
