@@ -38,7 +38,6 @@ I enjoy building projects, exploring new technologies, and continuously improvin
 
 | Project | Description |
 |---|---|
-| [Personal Portfolio](https://github.com/Obaidul-Islam-Aontor/personalportfolio) | A personal portfolio website |
 | [Portfolio Project](https://github.com/Obaidul-Islam-Aontor/2204017-portfolio) | A web-based portfolio project |
 | [Python Projects](https://github.com/Obaidul-Islam-Aontor/Python-Projects) | Programming projects and practice using Python |
 | [MATLAB Projects](https://github.com/Obaidul-Islam-Aontor/MATLAB-Projects) | MATLAB-based engineering projects and simulations |
